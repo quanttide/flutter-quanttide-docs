@@ -19,11 +19,11 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "canvaskit/chromium/canvaskit.js.symbols": "4525682ef039faeb11f24f37436dca06",
 "canvaskit/chromium/canvaskit.js": "43787ac5098c648979c27c13c6f804c3",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
-"index.html": "d6187d999396138447396bafe68cca94",
-"/": "d6187d999396138447396bafe68cca94",
+"index.html": "62d8fb4b0a7325f9085dd11935cc122f",
+"/": "62d8fb4b0a7325f9085dd11935cc122f",
 "flutter.js": "c71a09214cb6f5f8996a531350400a9a",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "d2d9510477134c9c1c5358fd2961c8a8",
+"main.dart.js": "3c7a84e7529ebbc54f817e8806f64668",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2f141ffd94f3ef0ed716615fd537e708",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "c6ac80bdc5b2896345377c9439f91d54",
@@ -34,7 +34,7 @@ const RESOURCES = {"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2e
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "bc685d5bcb6a8166d7096dadb7f21c15",
 "assets/AssetManifest.bin.json": "4446c963dde6091a6b6de4cb1ae02947",
-"assets/NOTICES": "5f72d041d02622ccd409099d4b4db590"};
+"assets/NOTICES": "8a506dfb6cead1decd9d77cdc587ba15"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
