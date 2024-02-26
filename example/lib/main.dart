@@ -1,5 +1,9 @@
-import 'package:example/screens/markdown_editor.dart';
 import 'package:flutter/material.dart';
+
+import 'package:example/screens/book_list_screen.dart';
+import 'package:example/screens/markdown_editor.dart';
+import 'package:example/samples/book.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -32,7 +36,10 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MarkdownEditorScreen(),
+      routes: {
+        '/': (context) => BookListScreen(books: books),
+        '/editor': (context) => const MarkdownEditorScreen(),
+      },
     );
   }
 }

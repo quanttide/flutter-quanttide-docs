@@ -30,6 +30,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_quanttide_docs:
+    path: ..
   simple_markdown_editor: ^0.2.0
 
   # The following adds the Cupertino Icons font to your application.
